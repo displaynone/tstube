@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+test_app/
+
+## Configuration files
+.gitignore
+.prettierrc.js
+commitlint.config.js
+
+tsconfig.json
+tsconfig.*.json
+
+.npmrc
+.husky
