@@ -1,6 +1,6 @@
 {
   "name": "tstube",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Javascript library for getting Youtube downloadable info/links",
   "main": "lib/cjs/index.js",
   "module": "lib/mjs/index.js",
